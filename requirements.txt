@@ -1,0 +1,9 @@
+plotly
+pandas
+streamlit
+yfinance
+matplotlib
+folium
+openpyxl
+pyxlsb
+xlsxwriter
